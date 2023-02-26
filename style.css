@@ -97,6 +97,7 @@ nav {
     background-color: #f2f2f2;
     border-bottom: 2px solid black;
     display: none;
+    z-index: 100;
 }
 
 .box-ul {
